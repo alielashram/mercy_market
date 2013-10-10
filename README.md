@@ -4,7 +4,7 @@ By Ali El-Ashram
 
 ## Description
 
-I generated a products scaffold, added and about us section and bootstrapped it all. This exercise was inspired by RailsCast #382.
+I generated a products scaffold, added an about us section and bootstrapped it all. This exercise was inspired by RailsCast #382.
 
 ## Information
 
