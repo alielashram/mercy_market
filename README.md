@@ -9,3 +9,7 @@ I generated a products scaffold, added an about us section and bootstrapped it a
 ## Information
 
 ![Screenshot 1](app/assets/images/Screen shot 2013-10-10 at 4.29.28 PM.png)
+
+## License
+
+MIT: http://aliel.mit-license.org/
